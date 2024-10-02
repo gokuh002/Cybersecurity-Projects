@@ -1,1 +1,1 @@
-Different tools used in cybersecurity like caeser cipher encryption & decryption tool, network packet analyzer, keylogger using python script
+The Packet Sniffer is a Python-based GUI application that allows users to capture and analyze network packets in real time using Tkinter for the interface and Scapy for packet handling; users can specify the number of packets to capture, view packet summaries in a scrollable text area, and easily monitor network traffic for analysis or troubleshooting.
